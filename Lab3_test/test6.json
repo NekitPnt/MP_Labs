@@ -1,0 +1,57 @@
+{
+    "post_1": {
+        "taggs": [
+            "tag_1",
+            "tag_2"
+        ],
+        "body": "sample text for post_1",
+        "datetime": "01.01.2019"
+    },
+    "post_2": {
+        "taggs": [
+            "tag_1"
+        ],
+        "body": "sample text for post_2",
+        "datetime": "20.01.2019"
+    },
+    "post_3": {
+        "taggs": [
+            "tag_3",
+            "tag_4",
+            "tag_5"
+        ],
+        "body": "sample text for post_3",
+        "datetime": "14.01.2019"
+    },
+    "post_4": {
+        "taggs": [
+            "tag_2",
+            "tag_4"
+        ],
+        "body": "sample text for post_4",
+        "datetime": "08.01.2019"
+    },
+    "post_5": {
+        "taggs": [
+            "tag_3",
+            "tag_4"
+        ],
+        "body": "sample text for post_5",
+        "datetime": ["01.01.2019"]
+    },
+    "post_7": {
+        "taggs": [
+            "tag_1",
+            "tag_5"
+        ],
+        "body": "sample text for post_7",
+        "datetime": "15.01.2019"
+    },
+    "post_6": {
+        "taggs": [
+            "tag_4"
+        ],
+        "body": "sample text for post_6",
+        "datetime": "10.01.2019"
+    }
+}

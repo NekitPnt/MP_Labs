@@ -1,0 +1,57 @@
+
+-------TAG_1-------
+post_1
+sample text for post_1
+01.01.2019
+
+post_7
+sample text for post_7
+15.01.2019
+
+post_2
+sample text for post_2
+20.01.2019
+
+-------TAG_2-------
+post_1
+sample text for post_1
+01.01.2019
+
+post_4
+sample text for post_4
+08.01.2019
+
+-------TAG_3-------
+post_5
+sample text for post_5
+01.01.2019
+
+post_3
+sample text for post_3
+14.01.2019
+
+-------TAG_4-------
+post_5
+sample text for post_5
+01.01.2019
+
+post_4
+sample text for post_4
+08.01.2019
+
+post_6
+sample text for post_6
+10.01.2019
+
+post_3
+sample text for post_3
+14.01.2019
+
+-------TAG_5-------
+post_3
+sample text for post_3
+14.01.2019
+
+post_7
+sample text for post_7
+15.01.2019
